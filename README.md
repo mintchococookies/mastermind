@@ -7,4 +7,4 @@ Guess the secret 4 colour code e.g. (W, W, W, W) in 10 tries. At each turn, the 
 - the correct colour in the correct position
 - a correct colour in a wrong position
 
-View the leaderboard to see how many times you've won :)
+View the game statistics to see how many times you've won and how many tries it took you on average :)
